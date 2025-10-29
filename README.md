@@ -7,7 +7,7 @@ The Titanic was a British luxury passenger 1,309 liner that tragically sank in t
 
 This project focuses on cleaning and analyzing the Titanic dataset to uncover the key factors that influenced survival. By transforming unstructured data into meaningful insights, my goal is to answer critical questions about passenger survival patterns and provide a deeper look into the circumstances that determined who made it out alive.
 
-### Overview
+### Overview Analysis
 The Titanic dataset initially contained unclean and unstructured information. Using Excel Power Query, I cleaned, validated, and transformed the data to explore key insights related to survival patterns. The analysis focused on variables such as age, gender, passenger class, embarkment port, fare, age groups, and family presence onboard.
 
 Removed duplicate records
